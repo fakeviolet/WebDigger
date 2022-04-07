@@ -4,7 +4,6 @@
 ![Banner](https://user-images.githubusercontent.com/103173822/162182085-6e1769b1-3433-4249-92d1-ca0b63fc99e5.png)
 
 
-Coded by Amirmohammad.
 ## Usage
 This script searches web for finding information about a noun or nickname.
 
