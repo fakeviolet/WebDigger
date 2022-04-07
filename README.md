@@ -10,15 +10,19 @@ This script searches web for finding information about a noun or nickname.
 
 Sites that have the name you want will be displayed.
 ## Installation
+1
 ```bash
 git clone https://github.com/fakeviolet/WebDigger.git
 ```
+2
 ```bash
 cd WebDigger/
 ```
+3
 ```bash
 pip install -r requirements.txt
 ```
+4
 ```bash
 python3 WebDigger.py
 ```
