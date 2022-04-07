@@ -1,5 +1,7 @@
 # Web Digger
-Digging the web to hunt a name.
+**Digging the web to hunt a name :)**
+
+Coded by Amirmohammad.
 ## Usage
 This script searches web for finding information about a noun or nickname.
 
