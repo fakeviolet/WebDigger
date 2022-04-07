@@ -5,7 +5,7 @@
 
 
 ## Usage
-This script searches web for finding information about a noun or nickname.
+This script searches the web for finding information about a noun or nickname.
 
 Sites that have the name you want will be displayed.
 ## Installation
